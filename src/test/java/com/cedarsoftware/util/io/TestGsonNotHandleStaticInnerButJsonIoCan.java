@@ -1,4 +1,4 @@
-package com.cedarsoftware.util.io;
+***/package com.cedarsoftware.util.io;
 
 import com.google.gson.Gson;
 import org.junit.Test;
